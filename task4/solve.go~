@@ -54,5 +54,5 @@ func DifferentWordsCount(str string) int {
 	gen := PowerGenerator(2)
 	fmt.Println(gen())
 	fmt.Println(gen())
-	fmt.Println(DifferentWordsCount("Hello, world!HELLO  wOrlD...12"))
-}*/
+	fmt.Println(DifferentWordsCount("Hello, world!HELLO  wOrlD...12"))*/
+}
